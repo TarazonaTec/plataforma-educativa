@@ -1,0 +1,25 @@
+[
+  {
+    "nombre":"Personajes Bíblicos",
+
+    "descripcion":"Aprende sobre personajes",
+
+    "tipo":"Quiz",
+
+    "juego":"quiz",
+
+    "archivo":"personajes_quiz"
+  },
+
+  {
+    "nombre":"Mandamientos",
+
+    "descripcion":"Verdadero o falso",
+
+    "tipo":"VF",
+
+    "juego":"vf",
+
+    "archivo":"mandamientos_vf"
+  }
+]

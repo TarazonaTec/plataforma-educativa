@@ -1,0 +1,102 @@
+[
+  {
+    "pregunta": "Al iniciar el estudio de la fe en primero de secundaria, se reflexiona sobre la naturaleza de la Biblia. ¿Cuál de las siguientes afirmaciones explica de manera correcta cómo está estructurada la Sagrada Escritura para los católicos?",
+    "opciones": [
+      "Es un solo libro dictado de forma literal desde el cielo, el cual contiene únicamente las leyes de la Iglesia organizadas cronológicamente por los apóstoles.",
+      "Es una colección de 73 libros sagrados divididos en dos grandes partes: el Antiguo Testamento, que narra la historia de la salvación antes de Cristo, y el Nuevo Testamento, que se centra en la vida y enseñanzas de Jesús.",
+      "Es un compendio de historias místicas de diferentes religiones del mundo que fue unificado por los científicos durante la época del Imperio Romano.",
+      "Es un documento de carácter exclusivamente político que describe las normas civiles que debían cumplir los antiguos ciudadanos del continente americano."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el libro del Génesis se narra la Creación del mundo por amor de Dios. Según las enseñanzas de la Iglesia, ¿cuál es la misión fundamental que Dios le confía al ser humano respecto a la naturaleza creada?",
+    "opciones": [
+      "Explotar todos los recursos naturales de forma desmedida y sin preocuparse por el futuro, ya que los bienes materiales son inagotables.",
+      "Ignorar el entorno natural y dedicarse exclusivamente a la construcción de templos de piedra en las grandes ciudades del mundo.",
+      "Ser administradores y custodios de la creación, lo que implica proteger, respetar y cuidar de la naturaleza y de todos los seres vivos como un regalo divino.",
+      "Modificar genéticamente a todas las especies de plantas y animales para adaptarlas únicamente a los intereses económicos de las industrias."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Dentro de la historia de la salvación, Dios realiza una alianza trascendental con un hombre considerado el 'Padre de la Fe', prometiéndole una gran descendencia y una tierra bendecida. ¿A qué personaje bíblico se refiere este acontecimiento?",
+    "opciones": [
+      "A Abraham, quien demostró una confianza plena en la promesa de Dios y cuya obediencia marcó el inicio del pueblo escogido (Israel).",
+      "A Moisés, quien recibió directamente las tablas de la ley en el monte Sinaí después de liberar al pueblo de la esclavitud en Babilonia.",
+      "Al rey David, quien gobernó con sabiduría y construyó el gran templo de Jerusalén para albergar las riquezas de las doce tribus.",
+      "A Jonás, quien fue enviado a predicar el arrepentimiento a los ciudadanos de la gran metrópoli de Nínive tras sobrevivir a una tormenta."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El misterio central de la fe y de la vida cristiana es el Misterio de la Santísima Trinidad. ¿Cómo define la doctrina católica esta verdad de fe revelada?",
+    "opciones": [
+      "Es la creencia en tres dioses distintos que tienen diferentes rangos de poder y que compiten entre sí para gobernar las fuerzas del universo.",
+      "Es la existencia de un solo Dios en tres Personas distintas: el Padre, el Hijo y el Espíritu Santo, que comparten una misma naturaleza divina en perfecta comunión de amor.",
+      "Es una teoría que afirma que Dios cambia de identidad según la época histórica, dejando de ser Padre en el Antiguo Testamento para convertirse en el Espíritu Santo hoy.",
+      "Es la unión de tres profetas santos de la antigüedad que fundaron la Iglesia en Jerusalén tras la destrucción del templo principal."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Durante su vida pública, Jesús de Nazaret utilizó frecuentemente 'parábolas' en sus predicaciones. ¿Cuál era el objetivo pedagógico y espiritual de Jesús al usar este recurso narrativo?",
+    "opciones": [
+      "Confundir a las autoridades de la época utilizando códigos secretos que solo los científicos avanzados de su tiempo podían descifrar.",
+      "Enseñar verdades profundas sobre el Reino de Dios a través de relatos sencillos y comparaciones basadas en la vida cotidiana de las personas comunes.",
+      "Escribir leyes estrictas que sancionaban con castigos físicos a todos aquellos ciudadanos que no cumplían con los ritos religiosos del templo.",
+      "Narrar biografías exactas y detalladas sobre los antiguos reyes de Egipto para fundamentar sus discursos en las plazas públicas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En los Evangelios, Jesús resume todos los mandamientos de la ley en lo que se conoce como el 'Mandamiento Nuevo' o el Mandamiento del Amor. ¿En qué consiste fundamentalmente esta enseñanza?",
+    "opciones": [
+      "En cumplir únicamente con los sacrificios materiales en el altar y distanciarse por completo de las necesidades de las personas enfermas.",
+      "En amar a Dios sobre todas las cosas y al prójimo como a uno mismo, manifestando el amor a Dios a través del servicio, el perdón y la solidaridad con los demás.",
+      "En buscar el bienestar personal y el éxito económico individual, ayudando a otros solo cuando se reciba una recompensa financiera a cambio.",
+      "En memorizar todas las normas bíblicas del Antiguo Testamento sin necesidad de ponerlas en práctica en la convivencia diaria con la familia."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Los Sacramentos son signos eficaces de la gracia, instituidos por Cristo y confiados a la Iglesia. ¿Cuál es el efecto espiritual del sacramento del Bautismo en la vida del creyente?",
+    "opciones": [
+      "Otorgar un título académico oficial reconocido por el Estado que le permite al ciudadano trabajar en cualquier institución pública.",
+      "Perdonar el pecado original, hacernos hijos de Dios por adopción, miembros de la Iglesia y partícipes de su misión evangelizadora.",
+      "Consagrar exclusivamente a la persona como sacerdote o monja claustral, separándola definitivamente de su entorno familiar y social.",
+      "Garantizar de forma automática una vida libre de problemas económicos, enfermedades físicas o dificultades materiales en el futuro."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Jesús eligió a doce apóstoles para que lo acompañaran en su misión, y entre ellos designó a uno como la 'roca' sobre la cual edificaría su Iglesia. ¿Quién fue este apóstol y cómo se vincula con la organización de la Iglesia actual?",
+    "opciones": [
+      "Fue Juan el Evangelista, cuyo linaje directo dio origen a los teólogos que redactaron las encíclicas más importantes del continente europeo.",
+      "Fue San Pedro, considerado el primer Papa de la Iglesia, cuya misión de guiar y mantener unida a la comunidad cristiana es continuada hoy por el Papa actual.",
+      "Fue Santiago el Mayor, quien organizó los primeros concilios ecuménicos en la ciudad de Roma para definir los dogmas marianos.",
+      "Fue Judas Iscariote, quien se encargó de administrar los bienes materiales de las primeras comunidades cristianas asentadas en Asia Menor."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La Iglesia Católica celebra a lo largo del año el 'Año Litúrgico', el cual divide el calendario en diferentes tiempos espirituales. ¿Qué se conmemora centralmente durante el tiempo de la Semana Santa?",
+    "opciones": [
+      "El nacimiento del niño Jesús en el pesebre de Belén y la llegada de los Reyes Magos del Oriente con sus ofrendas de oro, incienso y mirra.",
+      "La pasión, muerte y resurrección de Jesucristo (Misterio Pascual), donde se recuerda su entrega por amor para la redención de la humanidad.",
+      "La predicación de Juan el Bautista en el desierto del Jordán y el inicio del ministerio público de los setenta y dos discípulos.",
+      "La ascensión de la Virgen María en cuerpo y alma a los cielos y su coronación como reina de todos los ángeles y santos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La Virgen María ocupa un lugar muy especial en la historia de la salvación y en la devoción católica. ¿Cuál fue la actitud fundamental de María ante el anuncio del ángel Gabriel que la define como modelo de fe?",
+    "opciones": [
+      "Rechazar el llamado por temor a las críticas sociales de los habitantes de su pueblo natal en la región de Galilea.",
+      "Aceptar con humildad y total confianza el plan de Dios manifestando su 'Hágase en mí según tu palabra' (Fiat), asumiendo con amor la misión de ser la Madre del Salvador.",
+      "Exigir riquezas materiales y un palacio real a las autoridades de Jerusalén antes de dar a luz a su hijo primogénito.",
+      "Postergar su decisión por varios años hasta culminar sus estudios formales sobre las profecías del Antiguo Testamento."
+    ],
+    "correcta": 1
+  }
+]

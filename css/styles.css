@@ -1,0 +1,207 @@
+/* =========================
+   1. VARIABLES
+========================= */
+:root{
+
+  /* COLORS */
+
+  --primary:#2b5cff;
+
+  --primary-dark:#1d46cc;
+
+  --success:#4caf50;
+
+  --danger:#f44336;
+
+  --background:#f5f7fb;
+
+  --card:#ffffff;
+
+  --text:#222222;
+
+  --text-light:#666666;
+
+  /* SPACING */
+
+  --spacing-sm:10px;
+
+  --spacing-md:20px;
+
+  --spacing-lg:30px;
+
+  /* RADIUS */
+
+  --radius:16px;
+
+  /* SHADOW */
+
+  --shadow:
+  0 2px 10px rgba(0,0,0,.08);
+
+}
+/* =========================
+   2. RESET
+========================= */
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+
+/* =========================
+   3. BASE
+========================= */
+body{
+
+  font-family:Arial, sans-serif;
+
+  background:var(--background);
+
+  color:var(--text);
+
+  padding:20px;
+
+}
+
+/* =========================
+   4. LAYOUT
+========================= */
+.container{
+
+  max-width:1200px;
+
+  margin:auto;
+
+}
+
+/* =========================
+   5. COMPONENTS
+========================= */
+.card{
+
+  background:var(--card);
+
+  border-radius:var(--radius);
+
+  padding:25px;
+
+  box-shadow:var(--shadow);
+
+}
+
+/*Botones reutilizables*/
+.btn{
+
+  border:none;
+
+  border-radius:14px;
+
+  padding:16px;
+
+  cursor:pointer;
+
+  font-size:16px;
+
+  transition:.2s;
+
+}
+
+.btn-primary{
+
+  background:var(--primary);
+
+  color:white;
+
+}
+
+.btn-primary:hover{
+
+  background:var(--primary-dark);
+
+}
+
+/* =========================
+   6. QUIZ
+========================= */
+.quiz-container{
+
+  max-width:700px;
+
+  margin:auto;
+
+}
+
+.opcion{
+
+  width:100%;
+
+  border:none;
+
+  background:white;
+
+  padding:20px;
+
+  border-radius:16px;
+
+  cursor:pointer;
+
+  text-align:left;
+
+  line-height:1.5;
+
+  margin-bottom:15px;
+
+  box-shadow:var(--shadow);
+
+}
+
+.correcta{
+
+  background:var(--success);
+
+  color:white;
+
+}
+
+.incorrecta{
+
+  background:var(--danger);
+
+  color:white;
+
+}
+
+/* =========================
+   7. UTILITIES
+========================= */
+
+.text-center{
+  text-align:center;
+}
+
+.mt-20{
+  margin-top:20px;
+}
+
+/* =========================
+   8. RESPONSIVE
+========================= */
+
+@media(max-width:768px){
+
+  body{
+    padding:15px;
+  }
+
+  h1{
+    font-size:28px;
+  }
+
+  .card{
+    padding:20px;
+  }
+
+}
+
+

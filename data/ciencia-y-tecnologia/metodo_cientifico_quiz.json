@@ -1,0 +1,102 @@
+[
+  {
+    "pregunta": "Si un estudiante de primero de secundaria observa que las hojas de una planta en el biohuerto escolar se están volviendo amarillas y plantea que esto se debe a la falta de luz solar, ¿cuál de las siguientes opciones describe correctamente la naturaleza de esta afirmación dentro de una indagación científica?",
+    "opciones": [
+      "Es una conclusión definitiva basada en la observación directa de los cambios de color en la estructura foliar de la planta.",
+      "Es una hipótesis que propone una relación de causa y efecto entre una variable independiente (luz solar) y una variable dependiente (color de las hojas), la cual debe ser verificada mediante experimentación.",
+      "Es una ley científica que explica de manera universal cómo influyen los factores ambientales en el proceso de fotosíntesis de todas las especies vegetales.",
+      "Es un procedimiento experimental detallado que indica los pasos cronológicos que el estudiante debe seguir para resolver el problema detectado."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al diseñar un experimento para evaluar cómo afecta la temperatura del agua en el tiempo que tarda en disolverse una pastilla efervescente, ¿cómo se deben manejar las variables para garantizar que los resultados sean metodológicamente válidos?",
+    "opciones": [
+      "Se debe cambiar la temperatura del agua (variable independiente), medir el tiempo de disolución (variable dependiente) y mantener constantes el volumen de agua, el tipo de vaso y la masa de la pastilla (variables intervinientes).",
+      "Se deben modificar al mismo tiempo la cantidad de agua y la temperatura de la misma para observar cómo ambas variables independientes alteran de forma conjunta el color final de la solución obtenida.",
+      "Se debe mantener la temperatura del agua totalmente fija durante todo el proceso y variar únicamente la marca comercial de las pastillas efervescentes para comprobar la resistencia de sus componentes químicos.",
+      "Se debe medir únicamente el tiempo que tarda la reacción sin necesidad de controlar factores ambientales como el volumen del recipiente o la agitación del líquido, ya que no influyen en el resultado."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes afirmaciones explica de manera adecuada la diferencia fundamental entre una célula procariota, como la de una bacteria, y una célula eucariota, como la de una planta o un animal?",
+    "opciones": [
+      "Las células procariotas poseen una gran cantidad de organelos membranosos especializados como las mitocondrias, mientras que las células eucariotas carecen por completo de cualquier tipo de estructura interna.",
+      "Las células eucariotas son exclusivamente organismos unicelulares que no forman tejidos, mientras que las procariotas siempre se agrupan para constituir seres vivos complejos y pluricelulares.",
+      "Las células procariotas no tienen un núcleo definido, por lo que su material genético (ADN) se encuentra disperso en el citoplasma, mientras que las eucariotas protegen su ADN dentro de un núcleo delimitado por una membrana.",
+      "Las células eucariotas liberan su energía únicamente a través de la pared celular externa, mientras que las células procariotas realizan todas sus funciones metabólicas exclusivamente fuera de la membrana plasmática."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Dentro del ecosistema del desierto de la costa peruana, ¿cuál es el rol ecológico fundamental que cumplen los organismos productores, como el algarrobo, en el flujo de materia y energía?",
+    "opciones": [
+      "Transformar la materia orgánica muerta y los desechos del suelo en nutrientes inorgánicos simples para que puedan ser asimilados directamente por los animales carnívoros del ecosistema.",
+      "Captar la energía lumínica del Sol y, mediante el proceso de fotosíntesis, transformar el dióxido de carbono y el agua en materia orgánica (glucosa) que servirá de alimento para los niveles tróficos superiores.",
+      "Consumir directamente a los herbívoros y pequeños roedores de la zona para regular el crecimiento poblacional de las especies exóticas e impedir la degradación del suelo desértico.",
+      "Actuar como reguladores térmicos absorbiendo todo el calor del subsuelo para evitar que el agua dulce de las napas freáticas se evapore debido a la alta radiación solar de la región."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con la teoría celular y la organización de la materia viva, ¿cómo se articulan los diferentes niveles estructurales para dar origen a un organismo pluricelular complejo como el ser humano?",
+    "opciones": [
+      "Las células aisladas se agrupan de forma aleatoria para constituir sistemas orgánicos independientes que no necesitan interactuar entre sí para mantener con vida al individuo.",
+      "Los órganos de un cuerpo se forman primero a partir de compuestos químicos minerales y, con el paso del tiempo, estos órganos empiezan a fabricar de manera interna las células que necesitan para funcionar.",
+      "Las células especializadas con funciones similares se organizan para formar tejidos; la unión organizada de diferentes tejidos da lugar a los órganos, y estos órganos trabajan coordinadamente en sistemas para conformar al organismo completo.",
+      "Los sistemas digestivo y circulatorio se fusionan directamente a nivel molecular para crear células gigantes que son capaces de realizar todas las funciones vitales sin necesidad de tejidos intermedios."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Cuando una persona consume alimentos ricos en carbohidratos, ¿qué transformaciones principales sufren estos nutrientes en el sistema digestivo antes de poder ser aprovechados por las células del cuerpo?",
+    "opciones": [
+      "Son transformados directamente en gases pesados dentro del estómago gracias a la acción exclusiva de la bilis, para luego ser expulsados del organismo sin ingresar al torrente sanguíneo.",
+      "Se degradan mecánicamente en la boca y químicamente mediante enzimas en el estómago e intestino delgado hasta convertirse en moléculas simples como la glucosa, la cual es absorbida en las vellosidades intestinales hacia la sangre.",
+      "Se convierten de manera inmediata en tejido adiposo y muscular en las paredes del esófago mediante procesos de síntesis proteica térmica que no requieren intervención de jugos gástricos.",
+      "Son almacenados de forma intacta y sin sufrir ninguna modificación física o química en el intestino grueso, lugar donde permanecen por semanas hasta que el cuerpo requiera energía de reserva."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo explica la ciencia médica actual la importancia del uso de vacunas en la prevención de enfermedades infecciosas graves dentro de una comunidad humana?",
+    "opciones": [
+      "Las vacunas introducen medicamentos antibióticos de alta potencia que destruyen de forma inmediata y directa a cualquier tipo de virus o parásito presente en la sangre del paciente infectado.",
+      "Las vacunas modifican de forma permanente la estructura ósea del cuerpo humano para impedir que las bacterias microscópicas logren atravesar la piel o ingresar por las vías respiratorias.",
+      "Las vacunas contienen agentes patógenos debilitados, muertos o partes de ellos, que estimulan al sistema inmunológico a producir anticuerpos y generar memoria inmunitaria, permitiendo que el cuerpo responda de forma rápida y eficaz ante futuras infecciones reales.",
+      "Las vacunas actúan como una barrera química temporal que bloquea los receptores del gusto y del olfato, evitando de esta manera el ingreso de toxinas ambientales suspendidas en el aire."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Durante un día caluroso en la costa peruana, se observa que el agua líquida colocada en un recipiente al aire libre disminuye su volumen con el paso de las horas. ¿Qué ocurre a nivel molecular durante este cambio de estado conocido como evaporación?",
+    "opciones": [
+      "Las moléculas de agua absorben energía térmica del ambiente, lo que incrementa su energía cinética y les permite vencer las fuerzas de atracción intermoleculares para pasar del estado líquido al estado gaseoso.",
+      "Los átomos de hidrógeno y oxígeno que forman el agua se separan por completo debido al calor, destruyendo la molécula original y creando nuevos elementos químicos flotantes en la atmósfera.",
+      "Las moléculas de agua aumentan significativamente su tamaño y peso debido a la radiación solar, lo que provoca que caigan al fondo del recipiente en forma de un precipitado sólido invisible.",
+      "El agua experimenta una reducción drástica en el movimiento de sus partículas elementales, causando que todas las moléculas se agrupen de forma rígida y formen estructuras cristalinas densas."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Considerando la estructura interna de la Tierra y la teoría de la tectónica de placas, ¿cuál es la causa científica principal de la alta actividad sísmica que registra el territorio peruano?",
+    "opciones": [
+      "La acumulación excesiva de gases contaminantes pesados en las capas superiores de la atmósfera, los cuales ejercen una fuerte presión física sobre las llanuras de la región amazónica.",
+      "La interacción dinámica entre la Placa de Nazca (oceánica) y la Placa Sudamericana (continental), donde la primera se introduce debajo de la segunda en un proceso de subducción que acumula y libera grandes cantidades de energía.",
+      "El incremento diario del caudal de los ríos de la vertiente del Pacífico, lo que genera un desgaste severo en las raíces subterráneas de la Cordillera de los Andes provocando derrumbes continuos.",
+      "La atracción gravitacional extrema que ejercen los planetas exteriores del sistema solar sobre los yacimientos de hierro y cobre ubicados en el subsuelo de la costa central."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Frente al problema del calentamiento global provocado por el aumento de gases de efecto invernadero como el dióxido de carbono ($CO_2$), ¿cuál de las siguientes propuestas tecnológicas representa una alternativa de solución sostenible basada en principios científicos?",
+    "opciones": [
+      "Construir grandes ventiladores industriales propulsados por combustibles fósiles a lo largo de las fronteras para empujar los gases contaminantes hacia el espacio exterior.",
+      "Implementar sistemas de generación de energía basados en paneles solares fotovoltaicos y aerogeneradores para reducir de manera progresiva la dependencia de la quema de carbón y petróleo en las actividades humanas.",
+      "Verter productos químicos ácidos de origen industrial en los océanos del mundo con el único objetivo de congelar las capas superficiales del agua y disminuir la temperatura global del planeta.",
+      "Reemplazar por completo las áreas boscosas naturales por estructuras artificiales de plástico reflectante que impidan que los rayos solares entren en contacto con la superficie del suelo."
+    ],
+    "correcta": 1
+  }
+]

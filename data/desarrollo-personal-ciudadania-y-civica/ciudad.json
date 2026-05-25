@@ -1,0 +1,202 @@
+[
+  {
+    "pregunta": "¿Quién es considerado el 'Padre de la Geografía Antigua' por sus descripciones de los pueblos del Mediterráneo?",
+    "opciones": [
+      "Aristóteles",
+      "Hecateo de Mileto",
+      "Claudio Ptolomeo",
+      "Eratóstenes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué astrónomo y geógrafo propuso la Teoría Geocéntrica, sosteniendo que la Tierra era el centro del universo?",
+    "opciones": [
+      "Claudio Ptolomeo",
+      "Nicolás Copérnico",
+      "Galileo Galilei",
+      "Alexander von Humboldt"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la capa de la atmósfera más baja, donde ocurren la mayoría de los fenómenos meteorológicos como la lluvia y el viento?",
+    "opciones": [
+      "Troposfera",
+      "Estratosfera",
+      "Mesosfera",
+      "Termosfera"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "La capa de ozono, que nos protege de los dañinos rayos ultravioleta del Sol, se encuentra ubicada en la:",
+    "opciones": [
+      "Troposfera",
+      "Estratosfera",
+      "Exosfera",
+      "Mesosfera"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué proceso de la geodinámica interna es responsable de la formación de cordilleras debido al choque de placas tectónicas?",
+    "opciones": [
+      "Orogénesis",
+      "Epirogénesis",
+      "Meteorización",
+      "Erosión"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El desgaste, desintegración y descomposición de las rocas en la superficie terrestre por acción del agua o el viento se conoce como:",
+    "opciones": [
+      "Meteorización",
+      "Subducción",
+      "Magmatismo",
+      "Sedimentación"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es considerado el habitante más antiguo del Perú, ubicado en Ayacucho, donde se hallaron las herramientas de piedra más primitivas?",
+    "opciones": [
+      "Hombre de Chivateros",
+      "Hombre de Toquepala",
+      "Hombre de Pacaicasa",
+      "Hombre de Paiján"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿En qué lugar del Perú se encontraron las famosas pinturas rupestres que muestran escenas de caza colectiva o 'chaku'?",
+    "opciones": [
+      "Toquepala",
+      "Lauricocha",
+      "Guitarrero",
+      "Kotosh"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El Hombre de Caral destaca en la historia andina principalmente por haber edificado:",
+    "opciones": [
+      "Los primeros templos con manos cruzadas del Perú.",
+      "La civilización más antigua de América.",
+      "Los canales de regadío subterráneos más largos de la costa.",
+      "Las fortalezas militares más inexpugnables del periodo Formativo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué cultura del periodo Formativo es conocida por su litoescultura monumental, incluyendo el Lanzón Monolítico y las Cabezas Clavas?",
+    "opciones": [
+      "Chavín",
+      "Paracas",
+      "Nasca",
+      "Moche"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Las Trepanaciones Craneanas, cirugías complejas para tratar heridos de guerra, fueron una especialidad médica de la cultura:",
+    "opciones": [
+      "Paracas",
+      "Chimú",
+      "Tiahuanaco",
+      "Caral"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿En qué continente aparecieron los primeros ancestros del ser humano moderno durante el proceso de hominización?",
+    "opciones": [
+      "África",
+      "Asia",
+      "Europa",
+      "América"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Quién propuso la Teoría Asiática, que sostiene que los primeros pobladores llegaron a América cruzando el Estrecho de Bering?",
+    "opciones": [
+      "Paul Rivet",
+      "Alex Hrdlicka",
+      "Mendes Correia",
+      "Florentino Ameghino"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué antigua civilización se desarrolló entre los ríos Tigris y Éufrates y creó la escritura cuneiforme?",
+    "opciones": [
+      "Mesopotamia",
+      "Egipto",
+      "Fenicia",
+      "Grecia"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El imponente monumento funerario de las Pirámides de Giza pertenece a la civilización de:",
+    "opciones": [
+      "Egipto",
+      "China",
+      "Persia",
+      "Roma"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿En qué antigua civilización occidental nació el concepto de 'democracia' y se celebraron los primeros Juegos Olímpicos?",
+    "opciones": [
+      "Grecia",
+      "Roma",
+      "Hebrea",
+      "Cartago"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En economía, la contradicción entre las necesidades humanas ilimitadas y los recursos disponibles limitados se define como:",
+    "opciones": [
+      "Inflación",
+      "Monopolio",
+      "Escasez",
+      "Deflación"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se llama la fase del proceso económico donde los bienes producidos se trasladan a los mercados para su comercialización?",
+    "opciones": [
+      "Producción",
+      "Circulación",
+      "Consumo",
+      "Inversión"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la entidad pública autónoma encargada de emitir los billetes y monedas legales que circulan en el Perú?",
+    "opciones": [
+      "Ministerio de Economía y Finanzas (MEF)",
+      "Banco de la Nación",
+      "Superintendencia de Banca y Seguros (SBS)",
+      "Banco Central de Reserva del Perú (BCRP)"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En el sistema nacional de gestión del riesgo, ¿qué institución científica se encarga de monitorear y reportar la magnitud de los sismos en el Perú?",
+    "opciones": [
+      "Instituto Geofísico del Perú (IGP)",
+      "Instituto Nacional de Defensa Civil (INDECI)",
+      "Servicio Nacional de Meteorología e Hidrología (SENAMHI)",
+      "Centro Nacional de Estimación y Prevención de Riesgos (CENEPRED)"
+    ],
+    "correcta": 0
+  }
+]

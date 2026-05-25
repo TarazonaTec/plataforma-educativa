@@ -1,0 +1,57 @@
+[
+  {
+    "nombre":"Matemática",
+    "slug":"matematica",
+    "icono":"📘"
+  },
+  {
+    "nombre":"Comunicación",
+    "slug":"comunicacion",
+    "icono":"📝"
+  },
+  {
+    "nombre":"Inglés",
+    "slug":"ingles",
+    "icono":"🇬🇧"
+  },
+  {
+    "nombre":"Ciencia y Tecnología",
+    "slug":"ciencia-y-tecnologia",
+    "icono":"🔬"
+  },
+  {
+    "nombre":"Ciencias Sociales",
+    "slug":"ciencias-sociales",
+    "icono":"🏛️"
+  },
+  {
+    "nombre":"Desarrollo Personal, Ciudadanía y Cívica",
+    "slug":"desarrollo-personal-ciudadania-y-civica",
+    "icono":"🤝"
+  },
+  {
+    "nombre":"Educación para el Trabajo",
+    "slug":"educacion-para-el-trabajo",
+    "icono":"💻"
+  },
+  {
+    "nombre":"Arte y Cultura",
+    "slug":"arte-y-cultura",
+    "icono":"🎨"
+  },
+  {
+    "nombre":"Educación Física",
+    "slug":"educacion-fisica",
+    "icono":"⚽"
+  },
+  {
+    "nombre":"Educación Religiosa",
+    "slug":"educacion-religiosa",
+    "icono":"✝️"
+  },
+  {
+    "nombre":"Tutoría y Orientación Educativa",
+    "slug":"tutoria-y-orientacion-educativa",
+    "icono":"🧠"
+  }
+]

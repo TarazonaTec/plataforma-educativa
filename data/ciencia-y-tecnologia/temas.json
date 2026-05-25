@@ -1,0 +1,72 @@
+[
+  {
+    "nombre": "El Método Científico",
+    "descripcion": "Descubre cómo los científicos investigan el mundo formulando preguntas, planteando hipótesis y realizando experimentos válidos.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "metodo_cientifico_quiz"
+  },
+  {
+    "nombre": "La Célula y la Vida",
+    "descripcion": "Explora la unidad fundamental de todos los seres vivos, diferenciando de forma clara entre células procariotas y eucariotas.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "estructura_celular_quiz"
+  },
+  {
+    "nombre": "Niveles de Organización",
+    "descripcion": "Aprende cómo las células especializadas se articulan de forma compleja para formar tejidos, órganos y sistemas en los seres vivos.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "niveles_organizacion_quiz"
+  },
+  {
+    "nombre": "El Ecosistema Costero",
+    "descripcion": "Analiza el flujo de materia y energía reconociendo el rol ecológico fundamental de los productores en el desierto de la costa peruana.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "ecosistemas_costeros_quiz"
+  },
+  {
+    "nombre": "Nutrición y Digestión",
+    "descripcion": "Comprende los procesos de transformación mecánica y química que sufren los carbohidratos y nutrientes antes de ser aprovechados.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "sistema_digestivo_quiz"
+  },
+  {
+    "nombre": "Ciencia y Vacunas",
+    "descripcion": "Conoce la importancia médica de las vacunas en la prevención de enfermedades mediante la estimulación del sistema inmunológico.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "sistema_inmune_vacunas_quiz"
+  },
+  {
+    "nombre": "Materia y Evaporación",
+    "descripcion": "Explica a nivel molecular los cambios de estado de la materia basándote en la absorción de energía térmica y las fuerzas intermoleculares.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "estados_materia_quiz"
+  },
+  {
+    "nombre": "Sismos y Tectónica",
+    "descripcion": "Descubre la causa científica de la alta actividad sísmica en el Perú debido al proceso de subducción entre las placas tectónicas.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "tectonica_placas_peru_quiz"
+  },
+  {
+    "nombre": "Calentamiento Global",
+    "descripcion": "Evalúa alternativas tecnológicas sostenibles basadas en energías limpias para mitigar el aumento de gases de efecto invernadero.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "cambio_climatico_quiz"
+  },
+  {
+    "nombre": "Reino Plantae y Fotosíntesis",
+    "descripcion": "Estudia cómo las plantas transforman la energía lumínica, el agua y el dióxido de carbono en glucosa liberando oxígeno al ambiente.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "fotosintesis_plantas_quiz"
+  }
+]

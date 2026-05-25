@@ -1,0 +1,142 @@
+[
+  {
+    "nombre": "Identidad y Autoestima",
+    "descripcion": "Reconoce tus características personales, fortalezas y la importancia del autoconcepto en el tránsito a la adolescencia (1° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "identidad_autoestima_1_quiz"
+  },
+  {
+    "nombre": "Autorregulación Emocional",
+    "descripcion": "Aprende estrategias para identificar, expresar y regular tus emociones ante situaciones de conflicto escolar (1° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "autorregulacion_emociones_1_quiz"
+  },
+  {
+    "nombre": "Vínculo Familiar y Convivencia",
+    "descripcion": "Analiza las relaciones familiares, la comunicación asertiva y el cumplimiento de las normas en el hogar y la escuela (1° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "convivencia_familiar_1_quiz"
+  },
+  {
+    "nombre": "Cultura y Diversidad",
+    "descripcion": "Valora las tradiciones, costumbres y la riqueza de vivir en un país pluricultural y diverso como el Perú (1° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "cultura_pluriculturalidad_1_quiz"
+  },
+  {
+    "nombre": "La Adolescencia y sus Cambios",
+    "descripcion": "Comprende las transformaciones físicas, biológicas y psicológicas propias de la pubertad y la adolescencia (2° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "cambios_adolescencia_2_quiz"
+  },
+  {
+    "nombre": "Prevención de Riesgos",
+    "descripcion": "Identifica conductas de autocuidado frente a situaciones de riesgo como adicciones, pandillaje y desórdenes alimenticios (2° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "prevencion_riesgos_2_quiz"
+  },
+  {
+    "nombre": "Seguridad Vial y Ciudadana",
+    "descripcion": "Reconoce la importancia de las normas de tránsito y la responsabilidad civil para prevenir accidentes en la localidad (2° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "seguridad_vial_2_quiz"
+  },
+  {
+    "nombre": "Mecanismos de Mediación",
+    "descripcion": "Aplica estrategias y habilidades socioemocionales para la resolución pacífica de conflictos comunitarios (2° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "resolucion_conflictos_2_quiz"
+  },
+  {
+    "nombre": "Pensamiento y Dilemas Éticos",
+    "descripcion": "Analiza situaciones cotidianas empleando la argumentación moral y principios de justicia y equidad (3° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "dilemas_eticos_3_quiz"
+  },
+  {
+    "nombre": "Diversidad Cultural y Prejuicios",
+    "descripcion": "Cuestiona estereotipos, prejuicios y roles de género comunes que limitan la convivencia democrática (3° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "prejuicios_estereotipos_3_quiz"
+  },
+  {
+    "nombre": "La Constitución y los Derechos",
+    "descripcion": "Estudia los derechos fundamentales de la persona humana fijados en la Constitución Política del Perú (3° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "constitucion_derechos_3_quiz"
+  },
+  {
+    "nombre": "Deliberación Pública",
+    "descripcion": "Aprende a identificar, investigar y argumentar sobre asuntos públicos que afectan el bienestar común de la sociedad (3° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "asuntos_publicos_3_quiz"
+  },
+  {
+    "nombre": "Autonomía y Proyecto de Vida",
+    "descripcion": "Fortalece la toma de decisiones responsables basadas en valores éticos orientados al futuro personal (4° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "proyecto_vida_4_quiz"
+  },
+  {
+    "nombre": "Derechos Humanos Mundiales",
+    "descripcion": "Conoce los marcos internacionales e instituciones que promueven y defienden los derechos humanos en el mundo (4° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "derechos_humanos_4_quiz"
+  },
+  {
+    "nombre": "Poderes del Estado Peruano",
+    "descripcion": "Analiza las funciones y el equilibrio de poderes entre el Poder Ejecutivo, Legislativo y Judicial (4° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "poderes_estado_4_quiz"
+  },
+  {
+    "nombre": "Organismos Autónomos",
+    "descripcion": "Reconoce el rol institucional de entidades como el BCRP, la SBS, el JNE y la Defensoría del Pueblo (4° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "organismos_autonomos_4_quiz"
+  },
+  {
+    "nombre": "Identidad Colectiva e Historia",
+    "descripcion": "Reflexiona sobre los hitos históricos compartidos que consolidan la pertenencia y el orgullo por la nación peruana (5° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "identidad_nacional_5_quiz"
+  },
+  {
+    "nombre": "Gobernabilidad y Democracia",
+    "descripcion": "Examina los principios del Estado de derecho, la institucionalidad y los desafíos del sistema democrático en el siglo XXI (5° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "democracia_estado_derecho_5_quiz"
+  },
+  {
+    "nombre": "Gobiernos Locales y Regionales",
+    "descripcion": "Distingue las competencias, funciones presupuestales y los mecanismos de participación en los municipios y regiones (5° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "gobiernos_descentralizados_5_quiz"
+  },
+  {
+    "nombre": "Participación y Ciudadanía Activa",
+    "descripcion": "Evalúa las herramientas ciudadanas de fiscalización, rendición de cuentas, revocatoria y demandas colectivas (5° de Secundaria).",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "ciudadania_activa_5_quiz"
+  }
+]
