@@ -1,0 +1,55 @@
+[
+  {
+    "pregunta": "De acuerdo con lo expuesto en el video, ¿qué factor es indispensable al comunicar para lograr que una historia o lección quede grabada en la memoria de los demás?",
+    "youtube": "3UoLBl6gEdI",
+    "opciones": [
+      "Repetir los datos técnicos de forma memorística muchas veces",
+      "Transmitir el mensaje con emoción y pasión para conectar con el oyente",
+      "Hablar exclusivamente de temas políticos o empresariales",
+      "Utilizar un vocabulario excesivamente complejo y formal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El narrador menciona que en el mundo profesional o comercial, aquel que comunica con pasión logra una ventaja clave sobre el resto. ¿Cuál es?",
+    "imagen": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=500&q=80",
+    "opciones": [
+      "Consigue que el público le tenga compasión y lástima",
+      "Logra comunicar mejor, genera más confianza y vende más",
+      "Obliga a los clientes a comprar productos sin que lo necesiten",
+      "Aprende a diseñar ascensores mecánicos más rápidos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la gran división que plantea el video sobre la humanidad, ¿en qué dos grupos se divide el mundo respecto a las habilidades de comunicación?",
+    "imagen": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=500&q=80",
+    "opciones": [
+      "Entre los que tienen títulos universitarios y los que no los tienen",
+      "Entre los que saben contar historias y los que no saben",
+      "Entre los que venden productos tecnológicos y los que venden servicios",
+      "Entre los profesores de ciencias y los profesores de letras"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si un profesor posee un altísimo nivel de conocimiento sobre su materia pero no lo cuenta con emoción, ¿cuál es el resultado directo en sus alumnos según el video?",
+    "opciones": [
+      "Los alumnos aprenden el doble de rápido por la seriedad del tema",
+      "No se ayuda a que la historia o el conocimiento quede en la memoria de los alumnos",
+      "Los alumnos se ven obligados a buscar información en internet",
+      "El profesor es promovido automáticamente a un cargo administrativo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En conclusión, ¿a qué dos elementos fundamentales de nuestra capacidad de expresión nos invita el video a darles la máxima importancia en cualquier profesión?",
+    "opciones": [
+      "A la memorización de datos y a la velocidad al hablar",
+      "A las presentaciones visuales y al uso de micrófonos",
+      "A la comunicación y a la palabra",
+      "Al marketing digital y a las redes sociales"
+    ],
+    "correcta": 2
+  }
+]
