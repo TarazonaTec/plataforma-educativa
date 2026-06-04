@@ -1,9 +1,37 @@
 [
   {
-    "nombre": "El punto final",
-    "descripcion": "Aprende a identificar cuándo cerrar una idea completa y usar el punto final correctamente en tus textos.",
+    "nombre": "Origen e Importancia de la Comunicación",
+    "descripcion": "Descubre cómo nació la necesidad humana de compartir ideas y cómo transformó nuestra evolución.",
     "tipo": "Quiz",
     "juego": "quiz",
-    "archivo": "comunicacion_tema1_punto_final"
+    "archivo": "comunicacion_tema1_origen_e_importancia"
+  },
+  {
+    "nombre": "Los Elementos del Proceso Comunicativo",
+    "descripcion": "Identifica las piezas clave (emisor, receptor, canal y código) que hacen posible que nos entendamos.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "comunicacion_tema2_elementos_comunicacion"
+  },
+  {
+    "nombre": "Las Funciones del Lenguaje",
+    "descripcion": "Analiza la intención detrás de cada mensaje: ¿buscas informar, expresar o convencer?",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "comunicacion_tema3_funciones_lenguaje"
+  },
+  {
+    "nombre": "Ortografía y Acentuación",
+    "descripcion": "Domina el uso de las tildes y descubre cómo una regla ortográfica puede cambiarlo todo.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "comunicacion_tema4_ortografia_acentuacion"
+  },
+  {
+    "nombre": "Comprensión Lectora",
+    "descripcion": "Aprende a identificar la idea principal de un texto y a dominar la lectura inferencial.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "comunicacion_tema5_comprension_lectora"
   }
 ]
