@@ -1,0 +1,55 @@
+[
+  {
+    "pregunta": "Según la narración del video, ¿bajo qué condiciones climáticas y visuales convoca Dios a Moisés en el Monte Sinaí?",
+    "youtube": "X0yFb9KWJME",
+    "opciones": [
+      "En medio de un día soleado y una brisa ligera",
+      "Rodeado de una densa nube, truenos y relámpagos",
+      "Durante una tormenta de arena en el desierto",
+      "En una noche estrellada y completamente silenciosa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué objeto físico le entrega Dios a Moisés en la cumbre como base legal y espiritual de la alianza?",
+    "imagen": "https://images.unsplash.com/photo-1608142217730-a92c4f8d6fb9?auto=format&fit=crop&w=500&q=80",
+    "opciones": [
+      "Un pergamino con profecías sobre las tribus",
+      "Un cetro de oro para liderar las batallas",
+      "Tablas de piedra con los Diez Mandamientos inscritos",
+      "Un cofre sagrado para las ofrendas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con el video, ¿cuál era la finalidad principal de otorgarle estos mandamientos al pueblo de Israel?",
+    "imagen": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=500&q=80",
+    "opciones": [
+      "Guiar e instruir al pueblo para que supieran cómo vivir en justicia",
+      "Imponer un castigo por las quejas en el desierto",
+      "Establecer una ruta comercial segura hacia la tierra prometida",
+      "Dividir al pueblo en diferentes clases sociales"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué promesa central le hace Dios a los israelitas si ellos deciden escuchar su voz y guardar el pacto?",
+    "opciones": [
+      "Que serían la nación más rica y con más oro del mundo",
+      "Que los libraría de caminar y tener fatiga en el desierto",
+      "Que serían su propiedad personal y contarían con su protección divina",
+      "Que les daría el poder de conquistar imperios de inmediato"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al final del Short, ¿cuál es la respuesta unánime del pueblo de Israel tras conocer las leyes del pacto?",
+    "opciones": [
+      "Pidieron discutir las leyes con los ancianos del pueblo",
+      "Rechazaron las normas por considerarlas demasiado estrictas",
+      "Respondieron a una sola voz: 'Haremos todo lo que el Señor ha dicho'",
+      "Decidieron esperar a que Moisés bajara por segunda vez"
+    ],
+    "correcta": 2
+  }
+]

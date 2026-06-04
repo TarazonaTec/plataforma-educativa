@@ -1,0 +1,55 @@
+[
+  {
+    "pregunta": "Según lo planteado en el video sobre las profecías mesiánicas, ¿cuál es el argumento central sobre la relación entre Jesús y el Antiguo Testamento?",
+    "youtube": "GNP9TrtICHk",
+    "opciones": [
+      "Que Jesús contradijo las enseñanzas de los antiguos profetas",
+      "Que Jesús cumplió de forma exacta y matemática las profecías anunciadas siglos antes",
+      "Que las profecías se escribieron después de la vida de Jesús",
+      "Que solo se cumplieron las promesas políticas de la época"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué gran profeta del Antiguo Testamento es reconocido por anunciar detalladamente el nacimiento del Mesías y llamarlo 'Emanuel' (Dios con nosotros)?",
+    "imagen": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=500&q=80",
+    "opciones": [
+      "El profeta Isaías",
+      "El profeta Jonás",
+      "El profeta Elías",
+      "El profeta Amós"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "La profecía del profeta Miqueas especificaba con precisión un dato geográfico clave sobre el origen del Mesías que Jesús cumplió al nacer. ¿Cuál fue?",
+    "imagen": "https://images.unsplash.com/photo-1510146757112-9c1d0be6fc9e?auto=format&fit=crop&w=500&q=80",
+    "opciones": [
+      "Que nacería en la gran ciudad de Alejandría",
+      "Que nacería en el pequeño pueblo de Belén de Judea",
+      "Que nacería en el centro del Imperio Romano",
+      "Que aparecería directamente en las orillas del río Jordán"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué evento específico de la traición al Mesías fue detallado por los profetas, incluyendo el precio exacto de treinta monedas de plata?",
+    "opciones": [
+      "La entrega de Jesús por parte de Judas Iscariote",
+      "Las negaciones del apóstol Pedro en el patio",
+      "El juicio político ante Poncio Pilato",
+      "La repartición de sus vestiduras entre los soldados"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Por qué se considera que el cumplimiento de estas profecías en la persona de Jesús es un argumento 'que nadie puede negar'?",
+    "opciones": [
+      "Porque eran predicciones muy generales que le aplicaban a cualquiera",
+      "Porque la probabilidad matemática de que un solo hombre cumpla tantas profecías específicas por azar es prácticamente imposible",
+      "Anunciar un salvador",
+      "Porque los gobernantes de la época obligaron a que todo pasara a la fuerza"
+    ],
+    "correcta": 1
+  }
+]
