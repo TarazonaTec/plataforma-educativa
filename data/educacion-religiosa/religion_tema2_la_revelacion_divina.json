@@ -1,0 +1,55 @@
+[
+  {
+    "pregunta": "Según el video de EWTN, ¿por qué se afirma que no puede haber dos o más dioses en la realidad?",
+    "youtube": "5sEHN7JVevo",
+    "opciones": [
+      "Porque la historia antigua no lo menciona",
+      "Porque Dios es el ser supremo infinito, y no cabe la existencia de dos seres infinitos",
+      "Because los seres humanos no podrían recordar tantos nombres",
+      "Porque las leyes del universo impiden que se dividan el trabajo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Además de haber creado el mundo visible e invisible, ¿por qué otra cosa se preocupa Dios según lo explicado por el narrador?",
+    "imagen": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?auto=format&fit=crop&w=500&q=80",
+    "opciones": [
+      "Por la velocidad a la que giran los planetas en el espacio",
+      "Por el destino del hombre",
+      "Por cambiar el clima de la Tierra constantemente",
+      "Por ocultar sus leyes científicas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El video explica que llegó un momento en la historia donde Dios decidió intervenir al ver que el ser humano:",
+    "imagen": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d?auto=format&fit=crop&w=500&q=80",
+    "opciones": [
+      "Estaba construyendo grandes imperios y ciudades",
+      "Iba por un camino errado y se dirigía a la perdición o extravío",
+      "Había descubierto cómo cultivar la tierra con éxito",
+      "Ya no tenía curiosidad por investigar la naturaleza"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa textualmente 'la revelación' según las acciones de rescate que realiza Dios en el Short?",
+    "opciones": [
+      "Quedarse oculto para que el hombre lo busque solo",
+      "Dictar una lista de leyes científicas complejas",
+      "Rebelarse, descubrirse y salir en socorro del hombre para rescatarlo",
+      "Destruir la creación para empezar desde cero"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Cuando el narrador menciona que Dios creó 'todo lo visible y lo invisible', se refiere a que Dios es:",
+    "opciones": [
+      "Un observador que no interviene en la historia",
+      "El creador del cielo, de la tierra y de toda la existencia",
+      "Un personaje más dentro de los relatos humanos",
+      "Una fuerza de la naturaleza que actúa por casualidad"
+    ],
+    "correcta": 1
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "pregunta": "Según el video, ¿cuál es una de las características principales de los conocimientos de la ciencia?",
+    "youtube": "pVpgfT8DlFg",
+    "opciones": [
+      "Son ideas secretas que nadie puede conocer",
+      "Son conocimientos universales, objetivos y verificables",
+      "Son suposiciones que cambian todos los días",
+      "Son opiniones basadas en la suerte"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si un científico hace un experimento y anota los resultados exactos sin dejar que sus gustos personales influyan, ¿qué característica de la ciencia está aplicando?",
+    "imagen": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=500&q=80",
+    "opciones": [
+      "La objetividad",
+      "La imaginación",
+      "La velocidad",
+      "La improvisación"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Un grupo de investigadores dice haber encontrado una cura, pero para que sea aceptada, otros laboratorios deben poder repetir el experimento y obtener lo mismo. ¿Qué principio se cumple?",
+    "imagen": "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&w=500&q=80",
+    "opciones": [
+      "Que el conocimiento debe ser un misterio",
+      "Que la ciencia es fácil de memorizar",
+      "Que el conocimiento científico debe ser verificable",
+      "Que los experimentos solo se hacen una vez"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El video menciona que la ciencia genera conocimientos que explican nuestro entorno y que eventualmente nos permiten:",
+    "opciones": [
+      "Olvidar cómo funciona la naturaleza",
+      "Modificar o transformar nuestro entorno",
+      "Predecir el futuro mediante la magia",
+      "Evitar el uso de la tecnología"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes actividades se basa en el conocimiento científico?",
+    "opciones": [
+      "Seguir una corazonada para reparar un motor",
+      "Crear una vacuna basada en pruebas de laboratorio y datos reales",
+      "Adivinar el clima mirando las cartas",
+      "Inventar una historia sobre el origen de las estrellas"
+    ],
+    "correcta": 1
+  }
+]

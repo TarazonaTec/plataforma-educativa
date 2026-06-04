@@ -1,0 +1,55 @@
+[
+  {
+    "pregunta": "Si con 2 kilos de harina un panadero prepara 30 panes, ¿cuántos kilos necesita para preparar 90 panes?",
+    "youtube": "MIYKo5duSe4",
+    "opciones": [
+      "4 kilos",
+      "6 kilos",
+      "8 kilos",
+      "5 kilos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si una tabla muestra que para 4 jarras de chicha se usan 12 limones, ¿cuántos limones se necesitan para 10 jarras?",
+    "imagen": "https://i.postimg.cc/QMpyNtpS/Gemini-Generated-Image-ksq66vksq66vksq6-(1).png",
+    "opciones": [
+      "24 limones",
+      "30 limones",
+      "40 limones",
+      "20 limones"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si un mototaxista tarda 20 minutos en un recorrido a 30 km/h, ¿cuánto tardará si duplica su velocidad a 60 km/h?",
+    "imagen": "https://i.postimg.cc/Y9v8GCFQ/Gemini-Generated-Image-filcrxfilcrxfilc.png",
+    "opciones": [
+      "40 minutos",
+      "10 minutos",
+      "15 minutos",
+      "20 minutos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un sastre usa 3 metros de tela para confeccionar 2 pantalones. ¿Cuántos metros de tela necesitará para confeccionar 12 pantalones?",
+    "opciones": [
+      "18 metros",
+      "15 metros",
+      "24 metros",
+      "36 metros"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si 4 pintores tardan 6 días en pintar la fachada de un colegio, ¿cuántos días tardarán 8 pintores en hacer el mismo trabajo?",
+    "opciones": [
+      "12 días",
+      "3 días",
+      "4 días",
+      "2 días"
+    ],
+    "correcta": 1
+  }
+]

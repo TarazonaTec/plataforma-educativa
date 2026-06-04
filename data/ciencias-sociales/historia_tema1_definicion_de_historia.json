@@ -1,0 +1,55 @@
+[
+  {
+    "pregunta": "Según el video, ¿cuál es la definición más aceptada y correcta para un examen sobre qué es la historia?",
+    "youtube": "phhEzOWveaQ",
+    "opciones": [
+      "Una herramienta que usan los gobiernos para manipular a las personas",
+      "La ciencia social que estudia el pasado para comprender mejor nuestro presente",
+      "Una lista de fechas y nombres que se deben memorizar",
+      "El estudio exclusivo de las guerras antiguas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si un historiador analiza las leyes coloniales para entender por qué existen ciertos problemas sociales hoy en día, ¿qué objetivo de la historia está cumpliendo?",
+    "imagen": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?auto=format&fit=crop&w=500&q=80",
+    "opciones": [
+      "Estudiar el pasado solo por entretenimiento",
+      "Predecir el futuro exacto de la economía",
+      "Usar el pasado para comprender el presente",
+      "Cambiar los hechos que ya sucedieron"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El video menciona que el historiador Marc Bloch definía a la historia de una manera específica. ¿Cuál era?",
+    "imagen": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=500&q=80",
+    "opciones": [
+      "La ciencia que estudia al hombre a través del tiempo",
+      "La recopilación de mitos y leyendas antiguas",
+      "El estudio de la geografía del planeta",
+      "La evolución de la tecnología moderna"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Para Karl Marx, según lo explicado en el Short, la historia se define como:",
+    "opciones": [
+      "Un conjunto de cuentos inventados por escritores",
+      "La transformación continua de la naturaleza humana",
+      "El estudio del arte y las pinturas antiguas",
+      "Una ciencia exacta igual a las matemáticas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué se considera a la historia como una ciencia social y no como una ciencia natural?",
+    "opciones": [
+      "Porque estudia los fenómenos climáticos y los astros",
+      "Porque sus investigaciones se realizan en laboratorios químicos",
+      "Porque su objeto de estudio son las acciones y la evolución de las sociedades humanas",
+      "Porque no utiliza ningún método de investigación real"
+    ],
+    "correcta": 2
+  }
+]

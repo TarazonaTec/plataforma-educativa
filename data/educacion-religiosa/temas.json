@@ -1,25 +1,30 @@
 [
   {
-    "nombre":"Personajes Bíblicos",
-
-    "descripcion":"Aprende sobre personajes",
-
-    "tipo":"Quiz",
-
-    "juego":"quiz",
-
-    "archivo":"personajes_quiz"
+    "nombre": "Argumentos de la existencia de Dios",
+    "descripcion": "Explora el razonamiento filosófico y teológico sobre el origen inteligente y el fundamento independiente del universo.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "religion_tema1_existencia_de_dios"
   },
-
   {
-    "nombre":"Mandamientos",
-
-    "descripcion":"Verdadero o falso",
-
-    "tipo":"VF",
-
-    "juego":"vf",
-
-    "archivo":"mandamientos_vf"
+    "nombre": "La Revelación Divina",
+    "descripcion": "Comprende el sentido de la revelación de Dios en la historia humana para rescatar al hombre de su extravío.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "religion_tema2_la_revelacion_divina"
+  },
+  {
+    "nombre": "El Misterio de la Creación",
+    "descripcion": "Descubre la perspectiva de la fe sobre el origen del universo y el valor único de la dignidad humana.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "religion_tema3_el_misterio_de_la_creacion"
+  },
+  {
+    "nombre": "Las Alianzas de Dios",
+    "descripcion": "Estudia el pacto de fidelidad entre Dios y el pueblo a través de figuras clave como Abrahán y Moisés.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "religion_tema4_las_alianzas_de_dios"
   }
 ]

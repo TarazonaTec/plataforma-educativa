@@ -4,12 +4,14 @@ new URLSearchParams(window.location.search);
 const tema =
 params.get("tema");
 
+
 fetch(`data/${tema}/temas.json`)
   .then(res => res.json())
   .then(data => {
 
     const container =
     document.getElementById("contenedor");
+    
 
     container.innerHTML = "";
 
@@ -48,7 +50,7 @@ fetch(`data/${tema}/temas.json`)
 
       container.innerHTML += `
 
-        <div class="recurso">
+        <div class="card">
 
           <h2>${item.nombre}</h2>
 

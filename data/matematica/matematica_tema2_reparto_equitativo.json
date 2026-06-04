@@ -1,0 +1,55 @@
+[
+  {
+    "pregunta": "Si repartes 3 moldes de queso por igual entre 4 clientes, ¿qué fracción le toca a cada uno?",
+    "youtube": "Nqf9CGszMik",
+    "opciones": [
+      "3/4",
+      "4/3",
+      "1/3",
+      "1/4"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si un cliente compra las tres cuartas partes (3/4) de una pizza, ¿a qué porcentaje equivale?",
+    "imagen": "https://media.istockphoto.com/id/1865065764/es/vector/pizza-con-fracciones-trozos-de-comida-c%C3%A1lculos-matem%C3%A1ticos-tarifa-de-comida-educaci%C3%B3n.jpg?s=1024x1024&w=is&k=20&c=UnTMmF6vTNO78fpanOkb5DhImJuFao3ZoowS9Iw0kQw=",
+    "opciones": [
+      "25%",
+      "50%",
+      "75%",
+      "34%"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué peso marca una balanza si la aguja está exactamente a la mitad entre 1.5 kg y 2.0 kg?",
+    "imagen": "https://i.ytimg.com/vi/lXHfX7o-zQo/maxresdefault.jpg",
+    "opciones": [
+      "1.6 kg",
+      "1.75 kg",
+      "1.8 kg",
+      "1.55 kg"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si 3 socios se dividen una ganancia de S/ 450.90 en partes iguales, ¿cuánto recibe cada uno?",
+    "opciones": [
+      "S/ 150.00",
+      "S/ 150.30",
+      "S/ 150.90",
+      "S/ 153.00"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si una receta te pide usar 7/2 kilos de azúcar, ¿a cuántos kilos enteros y medio equivale?",
+    "opciones": [
+      "3 kilos y medio",
+      "7 kilos y medio",
+      "2 kilos y cuarto",
+      "5 kilos exactos"
+    ],
+    "correcta": 0
+  }
+]

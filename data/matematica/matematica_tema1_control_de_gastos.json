@@ -1,0 +1,55 @@
+[
+  {
+    "pregunta": "Según lo visto en el video, si empiezas el día debiendo S/ 40, ganas S/ 90 vendiendo y luego pagas S/ 50 de transporte, ¿cuál es tu saldo final?",
+    "youtube": "ST5IcolFVqY",
+    "opciones": [
+      "+S/ 10",
+      "-S/ 10",
+      "S/ 0",
+      "+S/ 50"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si tienes S/ 50 de propina, pero gastas S/ 15 en pasajes, S/ 10 en copias y S/ 30 en una recarga, ¿cuál es tu estado financiero real según el presupuesto familiar?",
+    "imagen": "https://tse2.mm.bing.net/th/id/OIP.3M-dVIrItoL__eN44iUCKgHaEc?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "opciones": [
+      "+S/ 5",
+      "-S/ 5",
+      "S/ 0",
+      "-S/ 55"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si tu caja está en 0 soles y le fías a un vecino productos por S/ 30, ¿en qué punto de la recta numérica se ubica tu dinero en efectivo?",
+    "imagen": "https://tse2.mm.bing.net/th/id/OIP.t48HrlwcAzP6GSPucd7yLAHaEs?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "opciones": [
+      "+30",
+      "0",
+      "-30",
+      "-1"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un mototaxista empieza el día debiendo S/ 25 por el alquiler del vehículo, gana S/ 60 en carreras y gasta S/ 15 en el almuerzo. ¿Cuál es su saldo?",
+    "opciones": [
+      "+S/ 35",
+      "+S/ 20",
+      "-S/ 20",
+      "+S/ 45"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un grupo de 4 jóvenes tiene una pérdida total de -S/ 120 en una rifa. Si dividen la deuda en partes iguales, ¿cuánto debe asumir cada uno?",
+    "opciones": [
+      "+S/ 30",
+      "-S/ 120",
+      "-S/ 30",
+      "S/ 0"
+    ],
+    "correcta": 2
+  }
+]

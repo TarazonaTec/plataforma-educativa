@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Control de gastos",
+    "descripcion": "Domina el uso de números enteros, deudas y saldos a favor aplicando las matemáticas en las finanzas del día a día.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "matematica_tema1_control_de_gastos"
+  },
+  {
+    "nombre": "Reparto equitativo",
+    "descripcion": "Aprende a usar fracciones y decimales para calcular divisiones justas y cuentas precisas en el comercio local.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "matematica_tema2_reparto_equitativo"
+  },
+  {
+    "nombre": "Regla de tres",
+    "descripcion": "Calcula proporciones exactas, recetas e insumos necesarios para la producción y gestión de negocios.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "matematica_tema3_regla_de_tres"
+  }
+]

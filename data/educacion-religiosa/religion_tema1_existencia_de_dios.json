@@ -1,0 +1,55 @@
+[
+  {
+    "pregunta": "Según el filósofo del video, ¿qué característica tienen los objetos de nuestra experiencia diaria como el micrófono?",
+    "youtube": "uXAEz_MNIEw",
+    "opciones": [
+      "Son completamente independientes desde siempre",
+      "Son seres dependientes cuya existencia depende de otras causas",
+      "No existen en la realidad material",
+      "Aparecen de la nada sin ninguna explicación"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si un objeto necesita de materiales, fábricas y personas para poder existir, ¿en qué categoría entra según el razonamiento expuesto?",
+    "imagen": "https://images.unsplash.com/photo-1588702547919-26089e690ecc?auto=format&fit=crop&w=500&q=80",
+    "opciones": [
+      "Un objeto independiente",
+      "Un objeto imaginario",
+      "Un objeto dependiente",
+      "Un objeto absoluto"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El expositor concluye que, si juntamos toda la realidad, el fundamento último que sostiene todo lo demás debe ser obligatoriamente:",
+    "imagen": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=500&q=80",
+    "opciones": [
+      "Independiente y existir por sí mismo",
+      "Destruido por las fuerzas de la naturaleza",
+      "Dependiente de otro universo diferente",
+      "Invisible e imposible de razonar"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué elementos del universo menciona el video para sugerir que el fundamento original de la creación posee inteligencia?",
+    "opciones": [
+      "La velocidad de la luz y la gravedad",
+      "La existencia de computadoras y tecnología moderna",
+      "La presencia de seres vivos, conscientes, libres y con belleza",
+      "Los cambios climáticos bruscos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la lógica del argumento presentado, si afirmamos que algo 'existe por sí mismo' sin requerir de un creador o causa externa, estamos diciendo que es:",
+    "opciones": [
+      "Un ser contingente",
+      "Un fundamento independiente",
+      "Un objeto artificial",
+      "Una ilusión de los sentidos"
+    ],
+    "correcta": 1
+  }
+]

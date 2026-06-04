@@ -1,0 +1,55 @@
+[
+  {
+    "pregunta": "Según el video, ¿cómo se define el término filosófico y religioso 'panteísmo'?",
+    "youtube": "gvOzV6xjNm8",
+    "opciones": [
+      "La creencia en múltiples dioses del Olimpo",
+      "La tendencia ideológica que afirma que 'todo es Dios'",
+      "El estudio científico de los árboles y la naturaleza",
+      "La negación absoluta de cualquier existencia espiritual"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué película de estreno reciente menciona el orador como un ejemplo claro de ideología panteísta en la cultura actual?",
+    "imagen": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=500&q=80",
+    "opciones": [
+      "El Señor de los Anillos",
+      "Avatar (la segunda parte)",
+      "Star Wars",
+      "Transformers"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con la doctrina explicada en el video, ¿cuál es la relación correcta entre Dios y la naturaleza?",
+    "imagen": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=500&q=80",
+    "opciones": [
+      "Dios es Dios y la creación no es Dios, aunque pueda ser divinizada o sobrenaturalizada",
+      "Los árboles y los seres humanos son exactamente iguales a Dios",
+      "La creación existía antes que Dios apareciera",
+      "La naturaleza es un dios independiente que compite con el verdadero"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué definición exacta da el expositor sobre lo que es un 'ídolo' en la vida de una persona?",
+    "opciones": [
+      "Una estatua antigua hecha de oro o piedra preciosa",
+      "Un líder religioso del pasado al que se le tiene mucho respeto",
+      "Cualquier criatura o cosa puesta erróneamente en el lugar que le corresponde a Dios",
+      "Un cantante o artista famoso con muchos seguidores"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el video, ¿qué consecuencia negativa ocurre cuando se idolatra radicalmente a una pareja, a un político o a una ideología?",
+    "opciones": [
+      "El universo pierde su orden físico de inmediato",
+      "Se genera un amor sano que ayuda a madurar a la sociedad",
+      "Se cae en un fanatismo o amor desordenado que hace daño y esclaviza",
+      "Se descubren nuevas verdades científicas sobre el hombre"
+    ],
+    "correcta": 2
+  }
+]
