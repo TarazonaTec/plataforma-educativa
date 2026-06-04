@@ -26,5 +26,12 @@
     "tipo": "Quiz",
     "juego": "quiz",
     "archivo": "religion_tema4_las_alianzas_de_dios"
+  },
+  {
+    "nombre": "Los Profetas y las Promesas del Mesías",
+    "descripcion": "Analiza el rol de los profetas en el Antiguo Testamento y los anuncios sobre la llegada del Salvador.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "religion_tema5_los_profetas_y_el_mesias"
   }
 ]
