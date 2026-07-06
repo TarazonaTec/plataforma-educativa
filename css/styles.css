@@ -239,4 +239,29 @@ body{
 
 }
 
+#puzzle-board{
 
+  width:450px;
+
+  height:450px;
+
+  margin:30px auto;
+
+  display:grid;
+
+  grid-template-columns:
+  repeat(3,1fr);
+
+  gap:2px;
+
+}
+
+.pieza{
+
+  border:1px solid #ddd;
+
+  cursor:pointer;
+
+  background-size:450px 450px;
+
+}
