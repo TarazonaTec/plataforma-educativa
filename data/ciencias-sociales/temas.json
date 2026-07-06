@@ -5,5 +5,14 @@
     "tipo": "Quiz",
     "juego": "quiz",
     "archivo": "historia_tema1_definicion_de_historia"
-  }
+  },
+
+  {
+    "nombre": "maravilla del mundo",
+    "descripcion": "mira esto.",
+    "tipo": "Puzzle",
+    "juego": "puzzle",
+    "archivo": "machu_picchu_puzzle"
+  },
+  
 ]
