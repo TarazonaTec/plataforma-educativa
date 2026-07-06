@@ -1,1 +1,16 @@
+{
+  "titulo": "Machu Picchu",
 
+  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKJ04lcHf63ORkrF-7qTi86beMoUrEcI-4OhF8T35iw&s=10",
+
+  "pregunta": "¿Qué lugar acabas de reconstruir?",
+
+  "opciones": [
+    "Machu Picchu",
+    "Chan Chan",
+    "Kuélap",
+    "Caral"
+  ],
+
+  "correcta": 0
+}
