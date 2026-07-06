@@ -41,10 +41,10 @@ fetch(`data/${tema}/temas.json`)
 
       }
 
-      else if(item.juego === "arrastrar"){
+      else if(item.juego === "puzzle"){
 
         rutaJuego =
-        `juegos/arrastrar.html?curso=${tema}&quiz=${item.archivo}`;
+        `juegos/puzzle.html?curso=${tema}&puzzle=${item.archivo}`;
 
       }
 
