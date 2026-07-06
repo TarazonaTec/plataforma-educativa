@@ -1,1 +1,18 @@
+[
+  {
+    "nombre": "Definición de la historia",
+    "descripcion": "Aprende el concepto fundamental de la historia como ciencia social y su importancia para entender el presente.",
+    "tipo": "Quiz",
+    "juego": "quiz",
+    "archivo": "historia_tema1_definicion_de_historia"
+  },
 
+  {
+    "nombre": "mar",
+    "descripcion": "mira esto.",
+    "tipo": "Puzzle",
+    "juego": "puzzle",
+    "archivo": "mia"
+  }
+  
+]
