@@ -29,6 +29,10 @@ let piezas = [];
 
 let seleccionada = null;
 
+let segundos = 0;
+
+let intervalo;
+
 
 fetch(
   `../data/${curso}/${puzzle}.json`
@@ -44,6 +48,7 @@ fetch(
   data.titulo;
 
   crearPuzzle();
+  iniciarCronometro();
 
 });
 
@@ -177,6 +182,7 @@ function verificarPuzzle(){
   if(completo){
 
     mostrarPregunta();
+detenerCronometro();
 
   }
 
@@ -187,5 +193,42 @@ function mostrarPregunta(){
   alert(
     puzzleData.pregunta
   );
+
+}
+
+function iniciarCronometro(){
+
+  intervalo = setInterval(()=>{
+
+    segundos++;
+
+    actualizarCronometro();
+
+  },1000);
+
+}
+
+function detenerCronometro(){
+
+  clearInterval(intervalo);
+
+}
+
+function actualizarCronometro(){
+
+  const minutos =
+  Math.floor(segundos/60)
+  .toString()
+  .padStart(2,"0");
+
+  const seg =
+  (segundos%60)
+  .toString()
+  .padStart(2,"0");
+
+  document
+  .getElementById("cronometro")
+  .textContent =
+  `${minutos}:${seg}`;
 
 }
