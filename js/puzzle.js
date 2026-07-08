@@ -181,18 +181,44 @@ function verificarPuzzle(){
 
   if(completo){
 
-    mostrarPregunta();
+     mostrarPreguntaFinal();
 detenerCronometro();
 
   }
 
 }
 
-function mostrarPregunta(){
+function mostrarPreguntaFinal(){
 
-  alert(
-    puzzleData.pregunta
-  );
+    // Ocultar tablero
+    document
+    .getElementById("puzzle-board")
+    .style.display = "none";
+
+    // Mostrar contenedor
+    const contenedor =
+    document.getElementById("pregunta-final");
+
+    contenedor.style.display = "block";
+
+    contenedor.innerHTML = `
+    
+        <h2>🎉 ¡Excelente!</h2>
+
+        <p>
+            Has completado el rompecabezas.
+        </p>
+
+        <img
+            src="${puzzleData.imagen}"
+            class="imagen-final"
+        >
+
+        <h3>
+            ${puzzleData.pregunta}
+        </h3>
+
+    `;
 
 }
 
