@@ -97,19 +97,15 @@ if(preguntaActual.youtube){
 
 
 
-  preguntaActual.opciones.forEach(
-    (opcion, index) => {
+  mostrarOpciones(
 
-      opcionesEl.innerHTML += `
-        <button
-          class="opcion"
-          onclick="responder(${index})"
-        >
-          ${opcion}
-        </button>
-      `;
-    }
-  );
+    opcionesEl,
+
+    preguntaActual.opciones,
+
+    responder
+
+);
 
 }
 
