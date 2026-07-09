@@ -214,10 +214,6 @@ function mostrarPreguntaFinal(){
             class="imagen-final"
         >
 
-        <h3>
-            ${puzzleData.pregunta}
-        </h3>
-
     `;
 
 }
