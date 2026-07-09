@@ -43,55 +43,10 @@ function mostrarPregunta(){
 preguntaEl.innerHTML =
 preguntaActual.pregunta;
 
-mediaEl.innerHTML = "";
-
-if(preguntaActual.imagen){
-
-  mediaEl.innerHTML = `
-    <img
-      src="${preguntaActual.imagen}"
-      class="pregunta-img"
-    >
-  `;
-
-}
-
-if(preguntaActual.video){
-
-  mediaEl.innerHTML = `
-    <video
-      class="pregunta-video"
-      controls
-    >
-      <source
-        src="${preguntaActual.video}"
-        type="video/mp4"
-      >
-    </video>
-  `;
-
-}
-
-if(preguntaActual.youtube){
-
-  mediaEl.innerHTML = `
-   
-    <iframe width="315" 
-    height="576" 
-    src="https://www.youtube.com/embed/${preguntaActual.youtube}"
-      frameborder="0" 
-      allow="accelerometer; 
-      autoplay; clipboard-write; 
-      encrypted-media; gyroscope; 
-      picture-in-picture; 
-      web-share" 
-      referrerpolicy="strict-origin-when-cross-origin" 
-      allowfullscreen>
-    </iframe>
-
-  `;
-
-}
+mostrarMedia(
+    mediaEl,
+    preguntaActual
+);
 
   opcionesEl.innerHTML = "";
 
