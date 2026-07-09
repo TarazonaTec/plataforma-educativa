@@ -1,16 +1,4 @@
 {
   "titulo": "Machu Picchu",
-
-  "imagen": "https://mapamundi.online/wp-content/uploads/2018/11/peru-mapamundi.png",
-
-  "pregunta": "¿Qué lugar acabas de reconstruir?",
-
-  "opciones": [
-    "Machu Picchu",
-    "Chan Chan",
-    "Kuélap",
-    "Caral"
-  ],
-
-  "correcta": 0
+  "imagen": "https://mapamundi.online/wp-content/uploads/2018/11/peru-mapamundi.png"
 }
